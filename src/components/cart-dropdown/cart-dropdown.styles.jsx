@@ -17,11 +17,6 @@ export const CartDropdownContainer = styled.div`
 
 export const CartDropdownButton = styled(CustomButton)`
   margin-top: auto;
-  &:hover {
-    background-color: white;
-    color: black;
-    border: 0.1px solid black
-  }
 `;
 
 export const EmptyMessageContainer = styled.span`
